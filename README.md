@@ -96,6 +96,7 @@ curl http://localhost:3000
 
 ### Desarrollo Local
 - **Sandbox**: http://localhost:3000
+- **Público**: https://3000-ixm8kfn6gnodd0i37t9bm-18e660f9.sandbox.novita.ai
 
 ### Producción (después de deployment)
 - **Cloudflare Pages**: https://redes-computer.pages.dev (pendiente)
