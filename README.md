@@ -100,7 +100,7 @@ curl http://localhost:3000
 
 ### Producción (después de deployment)
 - **Cloudflare Pages**: https://redes-computer.pages.dev (pendiente)
-- **GitHub**: (pendiente configuración)
+- **GitHub**: https://github.com/juajim15007-ship-it/Redes_Computer
 
 ## 📞 Información de Contacto (de la empresa)
 - **Teléfono**: +34 900 123 456
